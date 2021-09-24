@@ -1,2 +1,8 @@
-# index.io
-click here (https://github.com/ShobhitPoddar/index.io/blob/2db769891cb657fcf72863423e8a7269555ba009/index.html)
+
+
+# Module-2 Coding Assignment
+
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
+
